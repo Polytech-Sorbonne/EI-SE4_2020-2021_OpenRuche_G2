@@ -31,7 +31,7 @@
  */
 
 #include "DHT.h"
-
+ 
 #define DHT_DATA_BIT_COUNT 41
 
 DHT::DHT(PinName pin,int DHTtype) {
